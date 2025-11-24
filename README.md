@@ -1,6 +1,7 @@
 # 🧠 EEG Alcoholism Genetic Predisposition (Data Science & Machine Learning)
 
 ![Project Poster](Project_Poster.png)
+
 This project leverages **Machine Learning** techniques to analyze **EEG (Electroencephalogram)** signals and detect neurophysiological differences associated with a genetic predisposition to alcoholism.
 
 The study aims to classify individuals into two groups (Alcoholic vs. Control) based on their brainwave patterns response to visual stimuli. By analyzing time-series data from 64 electrodes, the project identifies key features that differentiate potential genetic predisposition to addiction.
